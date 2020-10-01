@@ -1,2 +1,2 @@
 # comvivaTraining
-Folder is created under training in comviva technologies
+Folder is created under training in comviva technologies Bangalore
